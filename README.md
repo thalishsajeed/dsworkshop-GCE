@@ -14,4 +14,5 @@ Follow along tutorials for XeteX 2019 at Govt College of Engineering Dharmapuri
 3. Clone the dsworkshop-GCE repository - https://github.com/thalishsajeed/dsworkshop-GCE.git 
    git clone https://github.com/thalishsajeed/dsworkshop-GCE.git 
 4. Navigate to the cloned repository    
-   cd dsworkshop-GCE/
+   cd dsworkshop-GCE/   
+5. Install Anaconda Python Distribution for Windows from the link - https://www.anaconda.com/distribution/ 
