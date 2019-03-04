@@ -1,6 +1,8 @@
 # dsworkshop-GCE
 Follow along tutorials for XeteX 2019 at Govt College of Engineering Dharmapuri
 
+![alt text](https://imgur.com/P6GQneG)
+
 (This tutorial is specific to Windows)
 
 ## Environment Setup Instructions
