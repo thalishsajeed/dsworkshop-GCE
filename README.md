@@ -1,7 +1,7 @@
 # dsworkshop-GCE
 Follow along tutorials for XeteX 2019 at Govt College of Engineering Dharmapuri
 
-![alt text](https://imgur.com/P6GQneG)
+![Xetex](https://i.imgur.com/P6GQneG.jpg)
 
 (This tutorial is specific to Windows)
 
